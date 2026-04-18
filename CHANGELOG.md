@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.24](https://github.com/DamanHanzo/blogtato/compare/v0.1.23...v0.1.24) - 2026-04-18
+
+### Added
+
+- improve CLI browsing experience with pager, summary footer, and compact mode
+
+### Fixed
+
+- *(deps)* update rust crate clap to v4.6.1 ([#164](https://github.com/DamanHanzo/blogtato/pull/164))
+- *(deps)* update rust crate rayon to v1.12.0 ([#162](https://github.com/DamanHanzo/blogtato/pull/162))
+
+### Other
+
+- *(deps)* update rust crate libc to v0.2.185 ([#161](https://github.com/DamanHanzo/blogtato/pull/161))
+
 ## [0.1.23](https://github.com/kantord/blogtato/compare/v0.1.22...v0.1.23) - 2026-04-06
 
 ### Added
